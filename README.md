@@ -7,5 +7,7 @@ Below the "Get advice" button is a line displaying the number of times that the 
 The display would look like this:
 
 If you think your headphones are dying, check the socket for fluff with a straightened paperclip.
+
 [Get advice]
+
 You have read 3 pieces of advice
