@@ -6,7 +6,7 @@ Below the "Get advice" button is a line displaying the number of times that the 
 
 What is displayed would look like this, after the button has been clicked a few times:
 
-If you think your headphones are dying, check the socket for fluff with a straightened paperclip.
+Remember that spiders are more afraid of you, than you are of them.
 
 [Get advice]
 
